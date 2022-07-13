@@ -1,4 +1,4 @@
-# MonkyBOost
+# MonkyBoost
 
 Olá seja bem-vindo(a) ao repositório do projeto MonkyBoost
 
